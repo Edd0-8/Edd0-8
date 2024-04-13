@@ -4,8 +4,6 @@ Hi, I'm Edd0!
 		<img src="https://media.giphy.com/media/kl5ctZSctCbE4/giphy.gif?cid=ecf05e478638yq836kox7vdkc7xhxubvfsuu8qqm0vhihquf&ep=v1_gifs_search&rid=giphy.gif" width="30">
 	</a>
 </h1>
-<p align="center">
-	<a href="https://github.com/Bouaskaoun">
-		<img src="https://media.giphy.com/media/kl5ctZSctCbE4/giphy.gif?cid=ecf05e478638yq836kox7vdkc7xhxubvfsuu8qqm0vhihquf&ep=v1_gifs_search&rid=giphy.gif" height="300" width="700">
-	</a>
-</p>
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Miltown&size=30&duration=2000&pause=1000&color=31F731&background=000000FC&center=true&vCenter=true&random=true&width=1000&height=70&lines=Programmer;Developer;Web+Designer;Data+Science;Edd0)](https://git.io/typing-svg)
+  
