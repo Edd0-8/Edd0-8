@@ -10,7 +10,7 @@ Hi, I'm Edd0!
 <p align="Center">
 Bienvenido a mi repositorio,
 </p>
-<img src="https://giphy.com/stickers/bethesda-ZgPf9DizfjcQscj214">
+<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExNTBhMmJwYnE0bTFpZDFmbXk1OWJ4NGltNHM4MnJmZ2o2OW02cjhrZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/ZgPf9DizfjcQscj214/giphy.gif">
 <p align="Center">
 Mi nombre es Edgar alias Edd0 y soy programador e ingeniero informatico.  
 
