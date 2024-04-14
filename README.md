@@ -8,10 +8,7 @@ Hi, I'm Edd0!
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Miltown&size=30&duration=3000&pause=1000&color=31F731&background=000000FC&center=true&vCenter=true&random=true&width=900&height=70&lines=Programmer;Developer;Web+Designer;Data+Science;Edd0)](https://git.io/typing-svg)
 
 <p align="Center">
-Bienvenido a mi repositorio,
-</p>
-<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExNTBhMmJwYnE0bTFpZDFmbXk1OWJ4NGltNHM4MnJmZ2o2OW02cjhrZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/ZgPf9DizfjcQscj214/giphy.gif">
-<p align="Center">
+Bienvenido a mi repositorio :suspect:
 Mi nombre es Edgar alias Edd0 y soy programador e ingeniero informatico.  
 
 Este repositorio es un sitio donde puedo almacenar mis proyectos, herramientas y estructuras de codigo que me son de utilidad. 
