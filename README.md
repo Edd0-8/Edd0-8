@@ -25,3 +25,7 @@ Espero que tu paso por aqui te sea beneficioso.
 
 <h1 align="center">Habilidades Tecnicas</h1>
 <img align="center" src="https://skillicons.dev/icons?i=cs,dotnet,java,php,py,django,css,html,bootstrap,js,nodejs,mysql,sqlite,git,github,docker,postman,eclipse,vscode,visualstudio,bash,linux&perline=12" />
+
+
+
+
