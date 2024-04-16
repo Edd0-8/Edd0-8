@@ -12,7 +12,7 @@ Hi, I'm Edd0!
 ### Mi nombre es Edgar alias Edd y soy programador e ingeniero informatico :computer:.  
 
 ### Este repositorio es un sitio donde puedo almacenar mis proyectos, herramientas y estructuras de codigo que me son de utilidad. 
-### Sientete con toda la LIBERTAD de extraer y/o copiar lo que necesites y te sirva. :ghost:
+### Sientete con toda la LIBERTAD de extraer y/o copiar lo que necesites y te sirva. :sparkler:
 
 ### En caso de que necesites ayuda, algun tipo de ascesoria o simplemente tienes una pregunta, contactate conmigo a traves de mi correo (edd0_8@proton.me) :e-mail:. 
 
