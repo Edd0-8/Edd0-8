@@ -14,7 +14,7 @@ Mi nombre es Edgar alias Edd y soy programador e ingeniero informatico.
 Este repositorio es un sitio donde puedo almacenar mis proyectos, herramientas y estructuras de codigo que me son de utilidad. 
 Sientete con toda la LIBERTAD de extraer y/o copiar lo que necesites y te sirva.
 
-En caso de que necesites ayuda, algun tipo de ascesoria o simplemente tienes una pregunta, contactate conmigo a traves de mi correo (edgargamaz2@gmail.com). 
+En caso de que necesites ayuda, algun tipo de ascesoria o simplemente tienes una pregunta, contactate conmigo a traves de mi correo (edd0_8@proton.me). 
 
 Espero que tu paso por aqui te sea beneficioso. 
 
