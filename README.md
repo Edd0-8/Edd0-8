@@ -8,6 +8,7 @@ Hi, I'm Edd0!
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Miltown&size=30&duration=3000&pause=1000&color=31F731&background=000000FC&center=true&vCenter=true&random=true&width=900&height=70&lines=Programmer;Developer;Web+Designer;Data+Science;Edd0)](https://git.io/typing-svg)
 
 <h1 align="left">Bienvenido a mi repositorio :ghost:</h1>
+
 ### Mi nombre es Edgar alias Edd y soy programador e ingeniero informatico :computer:.  
 
 ### Este repositorio es un sitio donde puedo almacenar mis proyectos, herramientas y estructuras de codigo que me son de utilidad. 
