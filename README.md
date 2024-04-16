@@ -23,6 +23,12 @@ Espero que tu paso por aqui te sea beneficioso.
 <h1 align="center">Habilidades Tecnicas</h1>
 <img align="center" src="https://skillicons.dev/icons?i=cs,dotnet,java,php,py,django,css,html,bootstrap,js,nodejs,mysql,sqlite,git,github,docker,postman,eclipse,vscode,visualstudio,bash,linux&perline=12" />
 
+<br>
 
+<h3>Stats :godmode:</h3>
+<img alt="Github Stats" src="https://github-readme-stats.vercel.app/api/?username=Edd0-8&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/>
+
+<h3>Lenguajes más utilizados :rage2:</h3>
+<img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Edd0-8&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/>
 
 
