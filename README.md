@@ -14,6 +14,7 @@
 ### En caso de que necesites ayuda, algun tipo de ascesoria o simplemente tienes una pregunta, contactate conmigo a traves de mi correo (edd0_8@proton.me) :e-mail:. 
 
 ### Espero que tu paso por aqui te sea beneficioso. 
+
 <br>
 <h1 align="left">Habilidades Tecnicas :hammer:</h1>
 <img align="center" src="https://skillicons.dev/icons?i=cs,dotnet,java,php,py,django,css,html,bootstrap,js,nodejs,mysql,sqlite,git,github,docker,postman,eclipse,vscode,visualstudio,bash,linux&perline=12" />
